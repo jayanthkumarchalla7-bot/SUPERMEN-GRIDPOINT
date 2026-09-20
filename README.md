@@ -3,7 +3,9 @@ GRIDPOINT: Logistics Made Easy
 GRIDPOINT is a warehouse and urban delivery network optimization project. I built it to make logistics planning easier to understand and play around with. You can find good warehouse locations, assign neighborhoods to them, plan capacity, estimate delivery costs, and see how the network holds up when conditions change.
 
 We used mostly CHAT-GPT for the code and have done some changes in code manually.
+
 We used VS-CODE for code editor .
+
 And as we used "streamlit" as our website hosting, so we ran it on local host
 
 
